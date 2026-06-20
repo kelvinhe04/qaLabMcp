@@ -1,0 +1,22 @@
+{
+  "clientes": [
+    {
+      "cip": "12345",
+      "nombre": "Ana Pérez",
+      "email": "ana@demo.com",
+      "telefono": "66778899"
+    },
+    {
+      "cip": "67890",
+      "nombre": "Luis Gómez",
+      "email": "luis@demo.com",
+      "telefono": "61234567"
+    },
+    {
+      "cip": "11111",
+      "nombre": "María López",
+      "email": "maria@demo.com",
+      "telefono": "78901234"
+    }
+  ]
+}

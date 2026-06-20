@@ -1,0 +1,18 @@
+# Carpeta de documentación interna (enunciado y plan) — no subir al repo
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+
+# VS Code (se mantiene mcp.json; se ignora el resto)
+.vscode/*
+!.vscode/mcp.json
+
+# Sistema
+.DS_Store
+Thumbs.db
